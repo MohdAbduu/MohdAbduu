@@ -33,7 +33,6 @@ I'm open to collaboration on projects related to data science and machine learni
 You can reach out to me through the following channels:
 
 - GitHub: [@MohdAbduu](https://github.com/MohdAbduu)
-- Email: [bscs23202@itu.edu.pk]
 
 Feel free to connect, follow, or send me a message. I'm always eager to engage with the data science and machine learning community.
 

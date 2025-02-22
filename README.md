@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdu
+# 👋 Hi, I'm Abdullah
 
 Welcome to my GitHub repository! I'm passionate about data science and machine learning, and I'm excited to share my projects and collaborate with like-minded individuals. Here's a bit about me and what you can find in this repository:
 
